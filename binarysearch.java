@@ -14,7 +14,7 @@ class Main {
     int target=7;
     System.out.println(searchRange(nums,target));
     
-  5.
+  
   }
 
 
